@@ -30,3 +30,14 @@ bash ./install-opencsv.sh
 
 ## 人脸识别
 
+
+## 人脸检索
+
+### 相似度度量算法
+- 欧式距离
+- 余弦相似度
+- 汉明距离
+
+## 查询处理算法
+- Naive查询处理算法
+- [KD-tree](http://blog.csdn.net/silangquan/article/details/41483689)

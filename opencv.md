@@ -1,6 +1,6 @@
 ## 安装
 
-*customize the installation configurations for your specific computer model*
+*customize the installation configurations for your specific computer model, or feel free to compile it by yourself*
 
 ### OS X
 
@@ -13,7 +13,9 @@ echo /usr/local/opt/opencv3/lib/python3.6/site-packages >> /usr/local/lib/python
 
 ### Arch
 
-> todo
+```sh
+pacman -Syu opencv opencv-samples
+```
 
 ### Ubuntu
 ```sh

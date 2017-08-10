@@ -25,6 +25,17 @@ bash ./install-opencsv.sh
 ```
 ## 人脸检测
 
+*判断图片或视频中是否有人脸并且定位人脸的问题*
+
+### 人脸检测的方法
+#### 基于几何特征的方法
+
+#### 基于肤色的检测方法
+
+### AdaBoost算法
+
+>The output of the other learning algorithms ('weak learners') is combined into a weighted sum that represents the final output of the boosted classifier. [AdaBoost](https://en.wikipedia.org/wiki/AdaBoost) is adaptive in the sense that subsequent weak learners are tweaked in favor of those instances misclassified by previous classifiers. AdaBoost is sensitive to noisy data and outliers. In some problems it can be less susceptible to the overfitting problem than other learning algorithms. The individual learners can be weak, but as long as the performance of each one is slightly better than random guessing (e.g., their error rate is smaller than 0.5 for binary classification), the final model can be proven to converge to a strong learner.
+
 特征
 - harr
 - LBP特征
@@ -34,6 +45,7 @@ bash ./install-opencsv.sh
 
 ## 人脸识别
 
+*在人脸识别的基础上，根据人脸识别这个人*
 
 ## 人脸检索
 

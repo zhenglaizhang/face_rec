@@ -1,5 +1,7 @@
 ## 安装
 
+*customize the installation configurations for your specific computer model*
+
 ### OS X
 
 ```sh
